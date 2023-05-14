@@ -1,0 +1,14 @@
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\WebApplicationServer.exe
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\WebApplicationServer.dll
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\WebApplicationServer.deps.json
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\WebApplicationServer.runtimeconfig.json
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\WebApplicationServer.pdb
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Negotiate.dll
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.Features.dll
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\System.DirectoryServices.Protocols.dll
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+E:\CAMERASECURITY\SERVER\WebApplicationServer\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll

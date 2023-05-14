@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "pGdfnBA9+DfioYJC2dECsnmKwzv4Bf4J9pNi1r/Y3vNHM2wIv8BvqvE0OZR+4wpPqzjpoU5pKBz5RN3GEyqEag==",
+  "success": true,
+  "projectFilePath": "E:\\CAMERASECURITY\\SERVER\\WebApplicationServer\\WebApplicationServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\7.0.5\\microsoft.aspnetcore.authentication.negotiate.7.0.5.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.5\\microsoft.aspnetcore.connections.abstractions.7.0.5.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.extensions.features\\7.0.5\\microsoft.extensions.features.7.0.5.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\system.directoryservices.protocols\\7.0.0\\system.directoryservices.protocols.7.0.0.nupkg.sha512",
+    "C:\\Users\\tvale\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
